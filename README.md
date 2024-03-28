@@ -2,7 +2,7 @@
 
 ## Description
 
-This project aims to automate testing using Cypress for HOYTS.
+This project aims to automate testing using Cypress for HOYTS https://www.hoyts.co.nz/
 
 ## Installation
 
